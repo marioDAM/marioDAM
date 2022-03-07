@@ -2,7 +2,8 @@
 
 <!--
 **marioDAM/marioDAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Desarrollador de Software en proceso, cursando 2ºDAM en Madrid.
+Muy atento en seguir aprendiendo en cuanto a difentes tecnlogías o frameworks
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
