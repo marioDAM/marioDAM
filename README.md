@@ -14,7 +14,7 @@ I develop software of all kinds and always try to learn new concepts. Each appli
 
 - Completing my higher degree
 - Take online courses on programming and development, especially OpenWebinars.
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
+ Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
