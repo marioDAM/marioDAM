@@ -6,7 +6,7 @@
 
 I am currently studying a higher degree in Multiplatform Application Development in Luis Vives, Leganés. During this course I have learned a lot about backend development and I have used different technologies. Always attentive to renew myself and learn more about other languages.
 
-Welcome to my Github page! I am Mario and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page! I am Mario and I am currently finishing my higher degree at the university of Leganes!  
 
 ### 💼  Things that I'm currently studing on: 
 I develop software of all kinds and always try to learn new concepts. Each application to be developed is a world to be discovered 
