@@ -5,9 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
-Actualmente estudiando un grado superior de Desarrollo de Aplicaciones Mutiplataforma en Luis Vives, Leganés.
-Durante este curso he aprendido mucho sobre el desarrollo de backend y he usado diferentes tecnologías.
-Siempre atento para renovarme y aprender más sobre otros lenguajes.
+I am currently studying a higher degree in Multiplatform Application Development in Luis Vives, Leganés. During this course I have learned a lot about backend development and I have used different technologies. Always attentive to renew myself and learn more about other languages.
 ![Android](?style=for-the-badge&logo=appveyor)
 
 Welcome to my Github page! I am Mario and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
