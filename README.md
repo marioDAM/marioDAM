@@ -38,7 +38,6 @@ I develop software of all kinds and always try to learn new concepts. Each appli
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>  <!--JAVA-->
   
-    <!-- Herramientas Favoritas -->
 <h2 align="center"> Herramientas favoritas 🛠️ </h2>
 <p align="center"> The tools in which I am most proficient are  👀: </p>
 <p align="center">
