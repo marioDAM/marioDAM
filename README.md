@@ -6,7 +6,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
 I am currently studying a higher degree in Multiplatform Application Development in Luis Vives, Leganés. During this course I have learned a lot about backend development and I have used different technologies. Always attentive to renew myself and learn more about other languages.
-![Android](?style=for-the-badge&logo=appveyor)
 
 Welcome to my Github page! I am Mario and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
