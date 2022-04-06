@@ -3,7 +3,6 @@ Actualmente estudiando un grado superior de Desarrollo de Aplicaciones Mutiplata
 Durante este curso he aprendido mucho sobre el desarrollo de backend y he usado diferentes tecnologías.
 Siempre atento para renovarme y aprender más sobre otros lenguajes.
 ![Android](?style=for-the-badge&logo=appveyor)
-<div><p>My profile overview: </p></div>
 ### This is Mario Valverde!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
