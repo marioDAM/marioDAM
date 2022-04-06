@@ -16,9 +16,8 @@ Welcome to my Github page! I am Mario and I am currently finishing my Computer E
 
 
 ### 💼  Things that I'm currently studing on: 
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
+I develop software of all kinds and always try to learn new concepts. Each application to be developed is a world to be discovered 
+
 * 🔜- Finish my Computer Engineering Master Degree  
 - Taking online courses about Data Science and Machine Learning 
 - Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
