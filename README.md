@@ -40,20 +40,21 @@ I develop software of all kinds and always try to learn new concepts. Each appli
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>  <!--JAVA-->
+  
 <h2 align="center"> Mi Actividad 📊 </h2>
 <p align="center">
   
-  <a href="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=react">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=DyLaNHurtado&show_icons=true&theme=react" height="220" alt="DyLaNHurtado"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=marioDAM&show_icons=true&theme=react">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=marioDAM&show_icons=true&theme=react" height="220" alt="marioDAM"/>
   </a> 
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=react">
-    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyLaNHurtado&theme=react&layout=compact" height="220"/>
+   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=marioDAM&theme=react">
+    <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioDAM&theme=react&layout=compact" height="220"/>
   </a> 
 </p>
 <!-- Trofeos -->
 <h2 align="center"> Mis Trofeos 🏆 </h2>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DyLaNHurtado&theme=juicyfresh" alt="DyLaNHurtado" height= 250/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marioDAM&theme=juicyfresh" alt="DyLaNHurtado" height= 250/></a>
 </p>
 
 
