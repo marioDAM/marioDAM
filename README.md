@@ -43,16 +43,6 @@ Welcome to my Github page! I am Mario and I am currently finishing my Computer E
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/marioDAM/marioDAM/blob/master/cover_image.jpg)</sub>
-
-![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=marioDAM&show_icons=true)
-<br />
-<br />
-<br />
-<details>
-<summary>
-  Projects I am currently working on
-</summary>
 
 <br />
 <h2 align="center">Github stats :bar_chart:</h2>
