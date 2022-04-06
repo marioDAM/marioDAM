@@ -37,9 +37,10 @@ I develop software of all kinds and always try to learn new concepts. Each appli
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>  <!--JAVA-->
+  
     <!-- Herramientas Favoritas -->
 <h2 align="center"> Herramientas favoritas 🛠️ </h2>
-<p align="center"> Las Herramientas en las que me manejo mejor son 👀: </p>
+<p align="center"> The tools in which I am most proficient are  👀: </p>
 <p align="center">
   <!--GIT-->
   <img loading="lazy" src="https://camo.githubusercontent.com/c084dd81e1577424180d491bd4cc9d4b9ff1268dfbf9142eb0ac442d61906c05/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3635302f312a7a7a7664526d484747584f4e5a7075513246657173512e706e67" 
