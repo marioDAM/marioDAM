@@ -9,9 +9,6 @@ I am currently studying a higher degree in Multiplatform Application Development
 
 Welcome to my Github page! I am Mario and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
 
-<img align="right" alt="img" src="https://github.com/marioDAM/marioDAM/blob/master/cover_image.jpg" width="50%" height="auto" />
-
-
 ### 💼  Things that I'm currently studing on: 
 I develop software of all kinds and always try to learn new concepts. Each application to be developed is a world to be discovered 
 
