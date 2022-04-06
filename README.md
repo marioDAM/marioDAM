@@ -15,7 +15,7 @@ Welcome to my Github page! I am Mario and I am currently finishing my Computer E
 <img align="right" alt="img" src="https://github.com/marioDAM/marioDAM/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-### 💼  Things that I'm currently working on: 
+### 💼  Things that I'm currently studing on: 
 * Learning Front-End Web:computer: Development
 * Learning some vectors drawing:art: by using Adobe Illustrator.
 * Looking forward to take a Flutter:calling: course in future.
