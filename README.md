@@ -15,8 +15,11 @@ Welcome to my Github page! I am Mario and I am currently finishing my Computer E
 <img align="right" alt="img" src="https://github.com/marioDAM/marioDAM/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
-#### 🌱 Things I am currently working on: 
-- Finish my Computer Engineering Master Degree  
+### 💼  Things that I'm currently working on: 
+* Learning Front-End Web:computer: Development
+* Learning some vectors drawing:art: by using Adobe Illustrator.
+* Looking forward to take a Flutter:calling: course in future.
+* 🔜- Finish my Computer Engineering Master Degree  
 - Taking online courses about Data Science and Machine Learning 
 - Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 
