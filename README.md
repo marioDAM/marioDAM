@@ -40,7 +40,31 @@ I develop software of all kinds and always try to learn new concepts. Each appli
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>  <!--JAVA-->
+  <img loading="lazy" src="https://user-images.githubusercontent.com/90937483/141752239-e0942533-e1dc-4bad-b714-86c052dffe09.png" 
+  height="50" />
+  <!--PYTHON-->
+  <img loading="lazy" src="https://user-images.githubusercontent.com/90937483/141752846-5629c1ae-1a7e-4c86-a558-7b4ee68cc26f.png" 
+  height="50" />
+  <!--BASH-->
+  <img loading="lazy" src="https://img.icons8.com/plasticine/2x/bash.png" 
+  height="60" />
+  <!--SQL-->
+  <img loading="lazy" src="http://www.faceofit.com/wp-content/uploads/2016/04/logoAzureSql.png" 
+  height="50" />
+  <!--HTML5-->
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" 
+    height="60" />
+  <!--CSS3-->
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" 
+  height="60" />
+   <!--JS-->
+  <img loading="lazy" src="https://camo.githubusercontent.com/72c27477f91493365e44b44306740892911721464f3f25d5b706c5deab24bfc2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f34383070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" 
+  height="50" />
+  <!--MONGODB-->
+  <img loading="lazy" src="https://camo.githubusercontent.com/76eef8f3cc351a6227d1ead376a039599f45c06efc48a6da32ec62f5482b34da/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6d6f6e676f64622d69636f6e2d312e737667" 
+  height="65" />
+  
 </p>
 
 
