@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mariieetee)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valverdemario.2410@gmail.com)
 
-I am currently studying a higher degree in Multiplatform Application Development in Luis Vives, Leganés, I only need an internship in the company and to do my final project in September.. During this course I have learned a lot about backend development and I have used different technologies. Always attentive to renew myself and learn more about other languages.
+I have recently finished degree in Multiplatform Application Development at Luis Vives, Leganés, I only need an internship in the company and to do my final project in September.. During this course I have learned a lot about backend development and I have used different technologies. Always attentive to renew myself and learn more about other languages.
 
 Welcome to my Github page! I am Mario and I am currently finishing my higher degree at the university of Leganes!  
 
