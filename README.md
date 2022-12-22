@@ -11,7 +11,7 @@ Welcome to my Github page! I am Mario and I am currently finishing my higher deg
 ### 💼  Things that I'm currently studing on: 
 I develop software of all kinds and always try to learn new concepts. Each application to be developed is a world to be discovered 
 
-- Completing my higher degree
+- Updating my knowledge in the languages I have learned and in new languages.
 - Take online courses on programming and development, especially OpenWebinars.
 
 #### :muscle: Things I am challenging myself with:
