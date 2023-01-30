@@ -6,7 +6,7 @@
 
 I have recently finished my degree in Multiplatform Application Development in Luis Vives, Leganés, and the internship in the company Mediapro group in Overon and I have done my final project. During this course I have learned a lot about backend development and I have used different technologies. I am always attentive to renew myself and learn more about other languages.
 
-Welcome to my Github page! I am Mario and I am currently finishing my higher degree at the university of Leganes!  
+Welcome to my Github page! I am Mario and I have completed my higher education at the university of Leganes!  
 
 ### 💼  Things that I'm currently studing on: 
 I develop software of all kinds and always try to learn new concepts. Each application to be developed is a world to be discovered 
