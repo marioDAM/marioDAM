@@ -16,7 +16,7 @@ I develop software of all kinds and always try to learn new concepts. Each appli
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+- Improve my fluency and my focus on reliable and secure solutions.
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
 
