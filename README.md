@@ -4,9 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/mariieetee)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:valverdemario.2410@gmail.com)
 
-I have recently finished my degree in Multiplatform Application Development in Luis Vives, Leganés, and the internship in the company Mediapro group in Overon and I have done my final project. During this course I have learned a lot about backend development and I have used different technologies. I am always attentive to renew myself and learn more about other languages.
-
-Welcome to my Github page! I am Mario and I have completed my higher education at the university of Leganes!  
+Hi! I'm Mario and I have 2 years of experience working as a software developer. During this time, I've used cutting-edge technologies and frameworks such as Java with Spring Boot, Kafka, microservices and relational databases in the cloud. I'm always looking for new opportunities to learn and improve my skills, I invite you to visit my GitHub page to see some of my projects! 
 
 ### 💼  Things that I'm currently studing on: 
 I develop software of all kinds and always try to learn new concepts. Each application to be developed is a world to be discovered 
